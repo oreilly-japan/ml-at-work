@@ -6,3 +6,4 @@ fastFM
 jupyter
 notebook
 pandas
+statsmodels
