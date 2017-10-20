@@ -1,0 +1,9 @@
+matplotlib
+Cython
+numpy
+scikit-learn
+fastFM
+jupyter
+notebook
+pandas
+statsmodels
