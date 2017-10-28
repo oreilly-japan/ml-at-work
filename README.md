@@ -10,10 +10,14 @@ chap07のコードは、Windows環境ではfastFMの導入ができないため�
 
 ソースコードの動作はPython 3.5.1, 3.6.3で確認しています。下記の通り環境を構築してください。
 
-ただし、fastFMのバイナリインストールではimportに失敗する場合があります。その場合はfastFMのリポジトリを参照して、ソースからコンパイルしてください。
-
 ```sh
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
 (venv)$ pip install -r requirements.txt -c constraints.txt
 ```
+
+## fastFMのインストールについて
+
+fastFMのバイナリインストールではimportに失敗する場合があります。その場合は[fastFMのリポジトリ](https://github.com/ibayer/fastFM#installation)の `source install` を参照して、ソースからコンパイルしてください。
+
+2017/10/29現在では、PyPiにfastFMのPython 3.6用wheelが登録されていないため、 `pip install fastFM` でインストールしてもfastFMをimport時にエラーが発生します。Python 3.6の場合は、ソースからのインストールをお願いします。
