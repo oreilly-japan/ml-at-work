@@ -20,7 +20,7 @@ $ source venv/bin/activate
 
 fastFMのバイナリインストールではimportに失敗する場合があります。その場合は[fastFMのリポジトリ](https://github.com/ibayer/fastFM#installation)の `source install` を参照して、ソースからコンパイルしてください。
 
-2017/10/29現在では、PyPiにfastFMのPython 3.6用wheelが登録されていないため、 `pip install fastFM` でインストールしてもfastFMをimport時にエラーが発生します。Python 3.6の場合は、ソースからのインストールをお願いします。
+Linux用及びmacOS用のwheelがPyPiにあるので、Python 3.6でもfastFMの利用が可能となりました。
 
 ## 著者らによる本書発売に関するコラム
 ### 有賀
