@@ -21,3 +21,13 @@ $ source venv/bin/activate
 fastFMのバイナリインストールではimportに失敗する場合があります。その場合は[fastFMのリポジトリ](https://github.com/ibayer/fastFM#installation)の `source install` を参照して、ソースからコンパイルしてください。
 
 2017/10/29現在では、PyPiにfastFMのPython 3.6用wheelが登録されていないため、 `pip install fastFM` でインストールしてもfastFMをimport時にエラーが発生します。Python 3.6の場合は、ソースからのインストールをお願いします。
+
+## 著者らによる本書発売に関するコラム
+### 有賀
+- [オライリーから「仕事ではじめる機械学習」が出版されます](https://medium.com/@chezou/cf835ff4c128)
+
+### 西林
+- [オライリーから「仕事ではじめる機械学習」という本を出しました](https://hagino3000.blogspot.jp/2017/11/oreillymlbook.html)
+### 中山
+- [「人工知能でいい感じの成果を出してくれ」という偉い人の脳内はどうなっているのか](https://medium.com/@tokoroten/96f4da85b924)
+- [悪用厳禁：絶対に成功するA/Bテストの作り方](https://medium.com/@tokoroten/c871f61233e6)
