@@ -6,30 +6,32 @@
 
 ## レポジトリの構成
 
-各章毎にノートブックがあります。
+各章のノートブックがあります。また、それぞれのノートブックはGoogle Colaboratoryを使いブラウザで実行できます。
 
-chap07のコードは、Windows環境ではfastFMの導入ができないため、[Windows Subsystem for Linux](https://msdn.microsoft.com/ja-jp/commandline/wsl/install_guide?f=255&MSPPError=-2147217396)を使うか、LinuxかmacOSで実行をしてください。
+- [2章のサンプルコード](chap02/Decision_boundary.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
+- [3章のサンプルコード](chap03/AUC_ROC.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap03/AUC_ROC.ipynb)
+- [7章のサンプルコード](chap07/all.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap07/all.ipynb)
+- [8章のサンプルコード](chap08/understanding_prediction_results.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap08/understanding_prediction_results.ipynb)
+- [9章のサンプルコード](chap09)
+- 10章のサンプルコード
+  - [その1](chap10/LR-forbook.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
+  - [Eメール分析](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
+- 11章のサンプルコード
+  - [その1](chap11/01_bandit_test.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
+  - [その2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
+  - [その3](chap11/03_contextual_bandit.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
 
-ソースコードの動作はPython 3.5.1, 3.6.3で確認しています。下記の通り環境を構築してください。
+## 著者らによる本書発売に関するコラム（第一版）
 
-```sh
-$ virtualenv -p python3 venv
-$ source venv/bin/activate
-(venv)$ pip install -r requirements.txt -c constraints.txt
-```
-
-## fastFMのインストールについて
-
-fastFMのバイナリインストールではimportに失敗する場合があります。その場合は[fastFMのリポジトリ](https://github.com/ibayer/fastFM#installation)の `source install` を参照して、ソースからコンパイルしてください。
-
-Linux用及びmacOS用のwheelがPyPiにあるので、Python 3.6でもfastFMの利用が可能となりました。
-
-## 著者らによる本書発売に関するコラム
 ### 有賀
+
 - [オライリーから「仕事ではじめる機械学習」が出版されます](https://medium.com/@chezou/cf835ff4c128)
 
 ### 西林
+
 - [オライリーから「仕事ではじめる機械学習」という本を出しました](https://hagino3000.blogspot.jp/2017/11/oreillymlbook.html)
+
 ### 中山
+
 - [「人工知能でいい感じの成果を出してくれ」という偉い人の脳内はどうなっているのか](https://medium.com/@tokoroten/96f4da85b924)
 - [悪用厳禁：絶対に成功するA/Bテストの作り方](https://medium.com/@tokoroten/c871f61233e6)
