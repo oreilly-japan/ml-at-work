@@ -8,20 +8,20 @@
 
 各章のノートブックがあります。また、それぞれのノートブックはGoogle Colaboratoryを使いブラウザで実行できます。
 
-- [2章のサンプルコード](chap02/Decision_boundary.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
-- [3章のサンプルコード](chap03/AUC_ROC.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap03/AUC_ROC.ipynb)
-- [7章のサンプルコード](chap07/all.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap07/all.ipynb)
-- [8章のサンプルコード](chap08/understanding_prediction_results.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap08/understanding_prediction_results.ipynb)
-- [9章のサンプルコード](chap09)
-- 10章のサンプルコード
-  - [その1](chap10/LR-forbook.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
-  - [Eメール分析](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
+- [2장 샘플 코드](chap02/Decision_boundary.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
+- [3장 샘플 코드](chap03/AUC_ROC.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap03/AUC_ROC.ipynb)
+- [7장 샘플 코드](chap07/all.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap07/all.ipynb)
+- [8장 샘플 코드](chap08/understanding_prediction_results.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap08/understanding_prediction_results.ipynb)
+- [9장 샘플 코드](chap09)
+- 10장 샘플 코드
+  - [기타 1](chap10/LR-forbook.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
+  - [이메일 분석](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
 - 11章のサンプルコード
-  - [その1](chap11/01_bandit_test.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
-  - [その2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
-  - [その3](chap11/03_contextual_bandit.ipynb) / [Google Colabで開く](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
+  - [기타 1](chap11/01_bandit_test.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
+  - [기타 2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
+  - [기타 3](chap11/03_contextual_bandit.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
 
-## 著者らによる本書発売に関するコラム（第一版）
+## 저자들이 출간과 관련해 작성한 컬럼들(1판)
 
 ### 有賀
 
