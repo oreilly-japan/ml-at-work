@@ -6,20 +6,20 @@
 
 ## 저장소 구성
 
-각 장별로 폴더를 나누어 노트북을 제공합니다. 또한 각 노트북은 Google Collaboratory를 이용해 브라우저에서 실행할 수 있습니다.
+각 장별로 폴더를 나누어 노트북을 제공합니다. 또한 각 노트북은 구글 코랩<sup>Google Collaboratory</sup>를 이용해 브라우저에서 실행할 수 있습니다.
 
-- [2장 샘플 코드](chap02/Decision_boundary.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
-- [3장 샘플 코드](chap03/AUC_ROC.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap03/AUC_ROC.ipynb)
-- [7장 샘플 코드](chap07/all.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap07/all.ipynb)
-- [8장 샘플 코드](chap08/understanding_prediction_results.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap08/understanding_prediction_results.ipynb)
+- [2장 샘플 코드](chap02/Decision_boundary.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
+- [3장 샘플 코드](chap03/AUC_ROC.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap03/AUC_ROC.ipynb)
+- [7장 샘플 코드](chap07/all.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap07/all.ipynb)
+- [8장 샘플 코드](chap08/understanding_prediction_results.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap08/understanding_prediction_results.ipynb)
 - [9장 샘플 코드](chap09)
 - 10장 샘플 코드
-  - [기타 1](chap10/LR-forbook.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
-  - [이메일 분석](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
+  - [기타 1](chap10/LR-forbook.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
+  - [이메일 분석](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
 - 11章のサンプルコード
-  - [기타 1](chap11/01_bandit_test.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
-  - [기타 2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
-  - [기타 3](chap11/03_contextual_bandit.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/oreilly-japan/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
+  - [기타 1](chap11/01_bandit_test.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
+  - [기타 2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
+  - [기타 3](chap11/03_contextual_bandit.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
 
 ## 저자들이 출간과 관련해 작성한 컬럼들(1판 기준)
 
